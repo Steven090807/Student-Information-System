@@ -9,7 +9,7 @@ A comprehensive web-based platform designed to automate educational data managem
 👉 [View Live Site](https://steven090807.github.io/Student-Information-System/)
 
 > [!IMPORTANT]
-> **Note:** The live demo showcases the Frontend UI/UX only. Since GitHub Pages is a static hosting service, backend features (Node.js & MySQL) are not active in this preview. To see the full functionality, please refer to the documentation.
+> **Note:** The live demo showcases the Frontend UI/UX only. Since GitHub Pages is a static hosting service, backend features (Node.js & MySQL) are not active in this preview. To see the full functionality, please refer to the documentation on my LinkedIn project profile.
 <br>
 
 ## Contact
